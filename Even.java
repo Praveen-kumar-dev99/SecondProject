@@ -8,7 +8,7 @@ public class Even{
             System.out.println("It is a even number");
         }else if(n%2!=0){
             System.out.println("It is a odd number");
-        }else{
+        }else{lrllflrrllr
             System.out.println("Invalid input");
         }
         }
